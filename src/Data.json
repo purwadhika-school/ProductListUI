@@ -1,0 +1,46 @@
+[
+    {
+        product_name: 'Nutella - Taste of Hazelnuts'
+        product_price: 'Rp65.000'
+        product_image: ''
+    },
+    {
+        product_name: 'Whole Wheat Bread',
+        product_price: 'Rp16.000',
+        product_image: ''
+    },
+    {
+        product_name: 'Chicken - Yummy Leg Piece',
+        product_price:  'Rp9.000',
+        product_image: ''
+    },
+    {
+        product_name: 'Apple - Best of Himalayans',
+        product_price: 'Rp36.000',
+        product_image: ''
+    },{
+        product_name:
+        product_price:
+        product_image:
+    },{
+        product_name:
+        product_price:
+        product_image:
+    },{
+        product_name:
+        product_price:
+        product_image:
+    },{
+        product_name:
+        product_price:
+        product_image:
+    },{
+        product_name:
+        product_price:
+        product_image:
+    },{
+        product_name:
+        product_price:
+        product_image:
+    }
+]
