@@ -3,10 +3,11 @@ import React from "react"
 import { Text, View, StyleSheet, StatusBar } from "react-native"
 import { Colors } from "../assets/Colors"
 
-const Header = () => (
+// no local state
+const Header = ({ title }) => (
   <View style={Styles.container}>
     <StatusBar backgroundColor={Colors.red} />
-    <Text style={Styles.txtTitle}>Deals of The Week</Text>
+    <Text style={Styles.txtTitle}>{title}</Text>
   </View>
 )
 
