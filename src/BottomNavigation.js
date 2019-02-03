@@ -31,9 +31,11 @@ const Styles = StyleSheet.create({
     left: 0,
     right: 0,
     bottom: 0,
+    flex: 0.1,
     height: 70,
     justifyContent: "space-evenly",
-    flexDirection: "row"
+    flexDirection: "row",
+    backgroundColor: "white"
   }
 })
 

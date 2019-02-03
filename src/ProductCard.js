@@ -5,7 +5,7 @@ import { Colors } from "../assets/Colors"
 // 2 Component : functional, class
 class ProductCard extends Component {
   render() {
-    return <View style={{ backgroundColor: Colors.grey }} />
+    return <View style={{ flex: 1, backgroundColor: Colors.grey }} />
   }
 }
 
